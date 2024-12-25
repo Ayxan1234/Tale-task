@@ -1,0 +1,168 @@
+.foursec-box {
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://templatemo.com/templates/templatemo_582_tale_seo_agency/assets/images/infos-bg.jpg");
+
+    .foursec-box2 {
+        display: flex;
+        margin-left: 12rem;
+        img{
+            object-fit: cover;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+            margin-top: 7rem;
+        }
+
+        .foursec-box3 {
+            width: 45%;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            background-color: #fff;
+            margin-top: 7rem;
+
+            .more {
+                font-size: 30px;
+                font-weight: 700;
+                margin-top: 3rem;
+                margin-left: 4rem;
+            }
+
+            .about {
+                color: #5b03e4;
+            }
+
+            .offer {
+                color: #c03afe;
+            }
+        }
+
+        .logsec2 {
+            margin: 30px 0px 20px 0px;
+            width: 60px;
+            height: 2px;
+            margin-bottom: 20px;
+            margin-left: 4rem;
+            background: linear-gradient(90deg, rgba(85, 0, 227, 1) 0%, rgba(198, 61, 255, 1) 100%);
+        }
+
+        .template {
+            width: 78%;
+            color: gray;
+            line-height: 30px;
+            margin-left: 4rem;
+        }
+    }
+
+}
+
+.col-11 {
+    color: #2a2a2a;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.full-bar {
+    width: 77%;
+    height: 9px;
+    border-radius: 3px;
+    background-color: rgba(241, 234, 234, 0.938);
+    display: flex;
+    margin-left: 4rem;
+
+    .full-bar-1 {
+        width: 90%;
+        background-color: #5b03e4;
+        border-radius: 3px;
+    }
+}
+
+.col-11 {
+    font-size: 17px;
+    color: #5b03e4;
+    margin-top: 30px;
+    margin-left: 4rem;
+}
+
+.col-6 {
+    display: flex;
+    align-items: end;
+}
+
+.col-10 {
+    font-weight: 700;
+    font-style: normal;
+    color: #5b03e4;
+    margin-left: 19rem;
+    font-size: 18px;
+}
+
+.full-bar-3 {
+    width: 77%;
+    height: 9px;
+    border-radius: 3px;
+    background-color: rgba(241, 234, 234, 0.938);
+    display: flex;
+    margin-left: 4rem;
+
+    .full-bar-1 {
+        width: 80%;
+        background-color: #5b03e4;
+        border-radius: 3px;
+    }
+}
+
+.left-2 {
+    display: flex;
+    align-items: end;
+}
+
+.left-1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #5b03e4;
+    margin-left: 14.5rem;
+    font-size: 18px;
+}
+
+.full-bar-4 {
+    width: 77%;
+    height: 9px;
+    border-radius: 3px;
+    background-color: rgba(241, 234, 234, 0.938);
+    display: flex;
+    margin-left: 4rem;
+
+    .full-bar-1 {
+        width: 95%;
+        background-color: #5b03e4;
+        border-radius: 3px;
+    }
+}
+
+
+.right-1 {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #5b03e4;
+    margin-left: 13.5rem;
+    font-size: 18px;
+}
+
+.right-2 {
+    display: flex;
+    align-items: end;
+}
+.lorem1{
+    width: 72%;
+    color: gray;
+    margin-left: 4rem;
+    margin-top: 30px;
+    line-height: 28px;
+}

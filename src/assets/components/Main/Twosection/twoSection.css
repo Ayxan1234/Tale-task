@@ -1,0 +1,71 @@
+.twosec-box {
+    width: 55%;
+    height: 600px;
+    margin-top: 3rem;
+    background-image: url("https://templatemo.com/templates/templatemo_582_tale_seo_agency/assets/images/services-left.jpg");
+    background-position: center;
+}
+
+.twosec-box2 {
+    display: flex;
+}
+
+.div {
+    .provide {
+        width: 60%;
+        line-height: 40px;
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .service {
+        color: #5b03e4;
+    }
+
+    .featur {
+        color: #c03afe;
+    }
+
+    .log-sec1 {
+        margin: 30px 0px 20px 0px;
+        width: 60px;
+        height: 2px;
+        margin-bottom: 20px;
+        background: linear-gradient(90deg, rgba(85, 0, 227, 1) 0%, rgba(198, 61, 255, 1) 100%);
+    }
+
+    .lorem {
+        font-size: 17px;
+        color: gray;
+    }
+
+    .boxs {
+        width: 280px;
+        height: 200px;
+        border: 1px solid rgb(205, 205, 205);
+        border-radius: 15px;
+        padding: 20px;
+
+        img {
+            border-radius: 50%;
+        }
+
+        h4 {
+            font-size: 22px;
+            line-height: 30px;
+            margin-top: 15px;
+        }
+    }
+
+    .boxs1 {
+        display: flex;
+        gap: 25px;
+        margin-top: 30px;
+    }
+
+    .boxs2 {
+        display: flex;
+        gap: 25px;
+        margin-top: 30px;
+    }
+}
